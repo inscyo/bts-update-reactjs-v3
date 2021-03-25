@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d13ec28.chunk.css",
-    "main.js": "/static/js/main.ed92f415.chunk.js",
-    "main.js.map": "/static/js/main.ed92f415.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.154709b2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.154709b2.js.map",
-    "static/js/2.ed8d6e37.chunk.js": "/static/js/2.ed8d6e37.chunk.js",
-    "static/js/2.ed8d6e37.chunk.js.map": "/static/js/2.ed8d6e37.chunk.js.map",
-    "static/js/3.27413381.chunk.js": "/static/js/3.27413381.chunk.js",
-    "static/js/3.27413381.chunk.js.map": "/static/js/3.27413381.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.5d13ec28.chunk.css.map": "/static/css/main.5d13ec28.chunk.css.map",
-    "static/js/2.ed8d6e37.chunk.js.LICENSE.txt": "/static/js/2.ed8d6e37.chunk.js.LICENSE.txt",
-    "static/media/49716465-advertisement-word-cloud-business-concept.5b6fa58f.jpg": "/static/media/49716465-advertisement-word-cloud-business-concept.5b6fa58f.jpg",
-    "static/media/font.css": "/static/media/rajdhani-semibold.af254e94.ttf"
+    "main.css": "/bts-update-reactjs-v3/static/css/main.a303620f.chunk.css",
+    "main.js": "/bts-update-reactjs-v3/static/js/main.d0139cdc.chunk.js",
+    "main.js.map": "/bts-update-reactjs-v3/static/js/main.d0139cdc.chunk.js.map",
+    "runtime-main.js": "/bts-update-reactjs-v3/static/js/runtime-main.4359cd18.js",
+    "runtime-main.js.map": "/bts-update-reactjs-v3/static/js/runtime-main.4359cd18.js.map",
+    "static/js/2.94cfecae.chunk.js": "/bts-update-reactjs-v3/static/js/2.94cfecae.chunk.js",
+    "static/js/2.94cfecae.chunk.js.map": "/bts-update-reactjs-v3/static/js/2.94cfecae.chunk.js.map",
+    "static/js/3.fbc03b65.chunk.js": "/bts-update-reactjs-v3/static/js/3.fbc03b65.chunk.js",
+    "static/js/3.fbc03b65.chunk.js.map": "/bts-update-reactjs-v3/static/js/3.fbc03b65.chunk.js.map",
+    "index.html": "/bts-update-reactjs-v3/index.html",
+    "static/css/main.a303620f.chunk.css.map": "/bts-update-reactjs-v3/static/css/main.a303620f.chunk.css.map",
+    "static/js/2.94cfecae.chunk.js.LICENSE.txt": "/bts-update-reactjs-v3/static/js/2.94cfecae.chunk.js.LICENSE.txt",
+    "static/media/49716465-advertisement-word-cloud-business-concept.5b6fa58f.jpg": "/bts-update-reactjs-v3/static/media/49716465-advertisement-word-cloud-business-concept.5b6fa58f.jpg",
+    "static/media/font.css": "/bts-update-reactjs-v3/static/media/rajdhani-semibold.af254e94.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.154709b2.js",
-    "static/js/2.ed8d6e37.chunk.js",
-    "static/css/main.5d13ec28.chunk.css",
-    "static/js/main.ed92f415.chunk.js"
+    "static/js/runtime-main.4359cd18.js",
+    "static/js/2.94cfecae.chunk.js",
+    "static/css/main.a303620f.chunk.css",
+    "static/js/main.d0139cdc.chunk.js"
   ]
 }
