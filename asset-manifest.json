@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bts-update-reactjs-v3/static/css/main.a303620f.chunk.css",
+    "main.css": "/bts-update-reactjs-v3/static/css/main.188fd5d2.chunk.css",
     "main.js": "/bts-update-reactjs-v3/static/js/main.6ede9a9e.chunk.js",
     "main.js.map": "/bts-update-reactjs-v3/static/js/main.6ede9a9e.chunk.js.map",
     "runtime-main.js": "/bts-update-reactjs-v3/static/js/runtime-main.4359cd18.js",
@@ -10,7 +10,7 @@
     "static/js/3.fbc03b65.chunk.js": "/bts-update-reactjs-v3/static/js/3.fbc03b65.chunk.js",
     "static/js/3.fbc03b65.chunk.js.map": "/bts-update-reactjs-v3/static/js/3.fbc03b65.chunk.js.map",
     "index.html": "/bts-update-reactjs-v3/index.html",
-    "static/css/main.a303620f.chunk.css.map": "/bts-update-reactjs-v3/static/css/main.a303620f.chunk.css.map",
+    "static/css/main.188fd5d2.chunk.css.map": "/bts-update-reactjs-v3/static/css/main.188fd5d2.chunk.css.map",
     "static/js/2.94cfecae.chunk.js.LICENSE.txt": "/bts-update-reactjs-v3/static/js/2.94cfecae.chunk.js.LICENSE.txt",
     "static/media/49716465-advertisement-word-cloud-business-concept.5b6fa58f.jpg": "/bts-update-reactjs-v3/static/media/49716465-advertisement-word-cloud-business-concept.5b6fa58f.jpg",
     "static/media/font.css": "/bts-update-reactjs-v3/static/media/rajdhani-semibold.af254e94.ttf"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.4359cd18.js",
     "static/js/2.94cfecae.chunk.js",
-    "static/css/main.a303620f.chunk.css",
+    "static/css/main.188fd5d2.chunk.css",
     "static/js/main.6ede9a9e.chunk.js"
   ]
 }
