@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d13ec28.chunk.css",
+    "main.js": "/static/js/main.ed92f415.chunk.js",
+    "main.js.map": "/static/js/main.ed92f415.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.154709b2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.154709b2.js.map",
+    "static/js/2.ed8d6e37.chunk.js": "/static/js/2.ed8d6e37.chunk.js",
+    "static/js/2.ed8d6e37.chunk.js.map": "/static/js/2.ed8d6e37.chunk.js.map",
+    "static/js/3.27413381.chunk.js": "/static/js/3.27413381.chunk.js",
+    "static/js/3.27413381.chunk.js.map": "/static/js/3.27413381.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5d13ec28.chunk.css.map": "/static/css/main.5d13ec28.chunk.css.map",
+    "static/js/2.ed8d6e37.chunk.js.LICENSE.txt": "/static/js/2.ed8d6e37.chunk.js.LICENSE.txt",
+    "static/media/49716465-advertisement-word-cloud-business-concept.5b6fa58f.jpg": "/static/media/49716465-advertisement-word-cloud-business-concept.5b6fa58f.jpg",
+    "static/media/font.css": "/static/media/rajdhani-semibold.af254e94.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.154709b2.js",
+    "static/js/2.ed8d6e37.chunk.js",
+    "static/css/main.5d13ec28.chunk.css",
+    "static/js/main.ed92f415.chunk.js"
+  ]
+}
